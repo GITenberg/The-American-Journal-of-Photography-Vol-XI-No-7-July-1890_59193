@@ -1,0 +1,31 @@
+_repo: The-American-Journal-of-Photography-Vol-XI-No-7-July-1890_59193
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Sachse, Julius Friedrich
+    alias: Sachse, Julius F.
+    birthdate: 1842
+    deathdate: 1919
+    gutenberg_agent_id: '34262'
+    url: http://www.gutenberg.org/2009/agents/34262
+  - agent_name: McCollin, Thos. H.
+    gutenberg_agent_id: '50339'
+    url: http://www.gutenberg.org/2009/agents/50339
+description: ''
+gutenberg_issued: '2019-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The American Journal of Photography, Vol. XI, No. 7, July 1890
+url: http://www.gutenberg.org/ebooks/59193
